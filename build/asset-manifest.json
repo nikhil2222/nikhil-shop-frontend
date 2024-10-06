@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93699990.css",
+    "main.js": "/static/js/main.4fe354a0.js",
+    "static/media/login-bg.png": "/static/media/login-bg.d38b389a5171ece0f1c1.png",
+    "static/media/bg1.jpeg": "/static/media/bg1.2e6484490e49a76bc501.jpeg",
+    "static/media/sareebanner.jpeg": "/static/media/sareebanner.2e9b03d1b07bb8f46274.jpeg",
+    "static/media/bg3.jpeg": "/static/media/bg3.dba1ac8fc4c4c064eabd.jpeg",
+    "static/media/bg2.jpg": "/static/media/bg2.f204f8973f7b434c4f99.jpg",
+    "static/media/bg4.jpeg": "/static/media/bg4.eabf73567e6de67a4299.jpeg",
+    "static/media/spinner.gif": "/static/media/spinner.951e1dae141a16d2a49b.gif",
+    "static/media/banner.jpg": "/static/media/banner.eebeadb4997d0bfefb7a.jpg",
+    "static/media/apparel.webp": "/static/media/apparel.822f87949a73d93a57c9.webp",
+    "static/media/accesories.webp": "/static/media/accesories.b76de8049ec470ece2d2.webp",
+    "static/media/saree.webp": "/static/media/saree.035096e0d0bf2a478844.webp",
+    "static/media/booksbanner.jpg": "/static/media/booksbanner.0298d5dadb1734204290.jpg",
+    "static/media/fashion.webp": "/static/media/fashion.69358b9fa13fc286af91.webp",
+    "static/media/logo.png": "/static/media/logo.4efd607c1b51bf8415bf.png",
+    "static/media/shirtsbanner.jpg": "/static/media/shirtsbanner.4e8b2e798d1a32d16e4c.jpg",
+    "static/media/shoes.avif": "/static/media/shoes.f785b2baca0b12490abc.avif",
+    "static/media/shoesbanner.webp": "/static/media/shoesbanner.1a14cf4f76882e6b3cf8.webp",
+    "static/media/bags.webp": "/static/media/bags.998f0c2cc648b9b809a0.webp",
+    "static/media/jacket.webp": "/static/media/jacket.f63962724b126546a9c2.webp",
+    "static/media/kids.jpg": "/static/media/kids.adedbae31b490c9b9ecd.jpg",
+    "static/media/books.webp": "/static/media/books.856a977d20cd14d1448d.webp",
+    "static/media/mobile.webp": "/static/media/mobile.0da393dd6923f5a1aa61.webp",
+    "index.html": "/index.html",
+    "main.93699990.css.map": "/static/css/main.93699990.css.map",
+    "main.4fe354a0.js.map": "/static/js/main.4fe354a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93699990.css",
+    "static/js/main.4fe354a0.js"
+  ]
+}
